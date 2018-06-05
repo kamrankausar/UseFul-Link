@@ -1,0 +1,19 @@
+Precision-Recall AUC vs ROC AUC for class imbalance problems Website Links
+1. kaggle
+https://www.kaggle.com/general/7517
+2. kdnuggets
+https://www.kdnuggets.com/2017/04/must-know-evaluate-binary-classifier.html
+3. kdnuggets
+https://www.kdnuggets.com/2016/12/best-metric-measure-accuracy-classification-models.html/2
+4. quora
+https://www.quora.com/What-error-metric-would-you-use-to-evaluate-how-good-a-binary-classifier-is-What-if-the-classes-are-imbalanced-What-if-there-are-more-than-2-groups
+5.quora 
+https://www.quora.com/Is-area-under-the-ROC-curve-better-than-balanced-error-rate-for-imbalanced-datasets
+6.stackexchange 
+https://stats.stackexchange.com/questions/322408/logloss-vs-gini-auc
+7. stackexchange
+https://stats.stackexchange.com/questions/321333/log-loss-function-in-scikit-learn-returns-different-values/321338#321338
+8. stackoverflow
+https://stackoverflow.com/questions/34698161/how-to-interpret-almost-perfect-accuracy-and-auc-roc-but-zero-f1-score-precisio
+9.stackexchange
+https://stats.stackexchange.com/questions/235089/optimizing-auc-vs-logloss-in-binary-classification-problems
